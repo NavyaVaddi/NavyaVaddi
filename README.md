@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NavyaVaddi
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning in Python
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @NavyaVaddi
 
 <!---
