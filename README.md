@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NavyaVaddi
 - 👀 I’m interested in Embedded Systems and Robotics
-- 🌱 I’m currently learning Machine Learning with python
-- 💞️ I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning Machine Learning with Python
+- 💞️ I’m looking to collaborate on Open Source Contribution Projects
 - 📫 How to reach me @NavyaVaddi
 
 <!---
