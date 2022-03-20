@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NavyaVaddi
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in learning somethng new
 - 🌱 I’m currently learning Machine Learning with Python
 - 💞️ I’m looking to collaborate on Open Source Contribution Projects
 - 📫 How to reach me @NavyaVaddi
