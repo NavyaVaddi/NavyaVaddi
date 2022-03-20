@@ -5,7 +5,12 @@
 - 📫 How to reach me @NavyaVaddi
 
 
-[![My Skills](https://skillicons.dev/icons?i=C,C++,Python,figma&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 
 📈 my github stats
 
