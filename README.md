@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on Open Source Contribution Projects
 - 📫 How to reach me @NavyaVaddi
 
-[![My Skills](https://skillicons.dev/icons?i=C/C++,Python,Embedded C,figma&theme=light)](https://skillicons.dev)
+
+
+📈 my github stats
 
 ![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NavyaVaddi&show_icons=true&count_private=true&show_icons=true&theme=merko)
 
