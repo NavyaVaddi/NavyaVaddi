@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on Open Source Contribution Projects
 - 📫 How to reach me @NavyaVaddi
 
-[![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NavyaVaddi)](https://github.com/NavyaVaddi/github-readme-stats)
-
 
 Skills: C/C++ / Python/ Embedded C/ HTML / CSS/ Verilog/VHDl / Make File
 
