@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,jupyter notebookc++,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,jupyter,c++,python,html,css" />
   </a>
 </p>
 
