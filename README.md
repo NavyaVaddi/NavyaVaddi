@@ -1,4 +1,4 @@
-### Hi there 👋, Navya GuttiVaddi
+### Hi there 👋, My name is Navya GuttiVaddi
 - 👀 I’m interested in learning something new
 - 🌱 I’m currently learning Machine Learning with Python
 - 💞️ I’m looking to collaborate on Open Source Contribution Projects
@@ -8,7 +8,7 @@
 Skills: 
 C/C++ / Python/ Embedded C/ HTML / CSS/ Verilog/VHDl / Make File
 
-![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NavyaVaddi&show_icons=true&count_private=true&theme=synthwave)
+![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NavyaVaddi&show_icons=true&count_private=true&show_icons=true&theme=synthwave)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NavyaVaddi)  
 
