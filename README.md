@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Navya GuttiVaddi
 - 👀 I’m interested in learning something new
 - 🌱 I’m currently learning Machine Learning with Python
-- 💞️ I’m looking to collaborate on Open Source Contribution Projects
+- 💞️ I’m looking to collaborate on contributing open source projects
 - 📫 How to reach me @NavyaVaddi
 
 Operating Systems
