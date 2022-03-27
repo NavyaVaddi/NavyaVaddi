@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Navya GuttiVaddi
-- 👀 I’m interested in learning something new
+- 👀 Aspiring Software Developer
 - 🌱 I’m currently learning Machine Learning with Python
 - 💞️ I’m looking to collaborate on contributing open source projects
 - 📫 How to reach me @NavyaVaddi
@@ -27,6 +27,8 @@ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 
 
 
