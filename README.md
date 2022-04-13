@@ -1,5 +1,6 @@
 ### Hi there 👋, My name is Navya GuttiVaddi
 - 👀 Aspiring Software Developer
+
 - 🌱 I’m currently learning Machine Learning with Python
 - 💞️ I’m looking to collaborate on contributing open source projects
 - 📫 How to reach me @NavyaVaddi
