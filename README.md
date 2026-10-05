@@ -1,66 +1,65 @@
-### Hi there 👋, My name is Navya GuttiVaddi
-- 👀 Aspiring Developer
-- 🌱 I’m currently learning Machine Learning with Python
-- 👯 I’m looking to collaborate with other Developers 😉
-- 🥅 2023 Goals: Contribute to Open Source projects
-- 📫 How to reach me @NavyaVaddi
+# Hi, I'm Navya GuttiVaddi 👋
 
-Operating Systems
+Software engineer and AI code evaluator. For the past two-plus years I've reviewed AI-generated code, written test cases, and documented clearly why an answer is right, wrong, incomplete, or off-instruction. I enjoy turning ambiguous tasks into precise, structured feedback.
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## What I do
 
+- **AI code evaluation:** reviewing model-generated code and responses for correctness, logical consistency, and instruction-following, with written rationale for every judgment
+- **Writing and testing code:** solving problems across Python, Go, and JavaScript/TypeScript, then building test cases to check correctness and performance
+- **Backend and web:** Django and REST APIs, with JavaScript/HTML/CSS front ends
+- **DevOps fundamentals:** containers, Kubernetes, CI/CD, and microservices (IBM DevOps capstone, deployed to OpenShift)
 
-IDE's/Editors
+## Currently building
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+I'm putting my AI evaluation background into public projects. Repos will be added here as each one ships.
 
-Languages
+- Building depth in **Go** and **React** through hands-on projects
+- Building **RAG** applications and **AI agents** (tool use, multi-step workflows)
+- Learning **MCP (Model Context Protocol)** to give agents real tools and data access
+- Refining how I evaluate and critique AI-generated code
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## Roadmap
 
+| Project | Goal |
+|---|---|
+| 🛠️ **AI Software Engineering Agent** | An agent that takes a task or issue, plans the work, edits code across files, runs tests, and iterates until they pass |
+| 🔌 **MCP-Powered AI Coding Agent** | A coding agent that uses MCP servers as its tools (file system, Git, docs, test runner) instead of hard-coded integrations |
+| 📚 **Agentic RAG Research Analyst** | A research agent that decides what to retrieve, searches documents and the web, cross-checks sources, and writes a cited report |
+| 🧪 **AI Code Evaluator** | Runs AI-generated code against test cases and produces a structured verdict with written rationale |
+| ⚙️ **Go REST API** | Routing, request validation, structured errors, unit tests, Docker, and a CI pipeline |
 
-Database
+Each project will ship with a live demo, an architecture diagram, tests, and an evaluation write-up on where it fails and why.
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## Earlier projects
 
-Frameworks, Platforms and Libraries
+- [Library Management System](https://github.com/NavyaVaddi/Library-Management-System): C++
+- [Bank Management System](https://github.com/NavyaVaddi/Bank-Management-System-C): C
+- [Supermarket Billing System](https://github.com/NavyaVaddi/Supermarket-billing-system): C++
+- [Embedded Systems coursework](https://github.com/NavyaVaddi/Embedded-Systems-coursera-course): C
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+## Tech stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+## Certifications
 
+- IBM Generative AI Engineering Professional Certificate (Coursera)
+- IBM DevOps and Software Engineering Professional Certificate (Coursera)
+- Data Structures and Algorithms Specialization (Coursera)
 
+## Open to work
 
-📈 my github stats
+Freelance, contract, and full-time roles in AI code evaluation, backend, or full-stack development.
 
-![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NavyaVaddi&show_icons=true&count_private=true&show_icons=true&theme=tokyonight)
+## Get in touch
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NavyaVaddi)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-  
-  
-  
-![Profile views](https://gpvc.arturio.dev/NavyaVaddi)  
-
-<!---
-NavyaVaddi/NavyaVaddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 [vaddinavya.g@gmail.com](mailto:vaddinavya.g@gmail.com)
